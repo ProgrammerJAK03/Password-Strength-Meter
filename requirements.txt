@@ -1,0 +1,4 @@
+streamlit==1.18.0
+plotly==5.11.0
+pyperclip==1.8.2
+altair==5.5.0
